@@ -11,6 +11,9 @@
 
 </div>
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/888ad51b-6caa-4782-aa7f-785026925a68" />
+
+
 **RupeeTrack** is a production-grade, open-source, offline-first personal finance application. It abandons the stressful, vibrant aesthetics of traditional finance apps in favor of a premium **"Quiet Security"** philosophy—minimalist, monochromatic, and deeply comforting. Built for users who value extreme privacy, absolute data ownership, and modern, buttery-smooth interfaces.
 
 > ⚠️ **NOTICE: UNDER DEVELOPMENT STAGE**
